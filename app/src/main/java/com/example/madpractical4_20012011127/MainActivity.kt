@@ -2,13 +2,12 @@ package com.example.madpractical4_20012011127
 
 import android.content.Intent
 import android.net.Uri
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.AlarmClock
 import android.provider.CallLog
 import android.provider.ContactsContract
 import android.provider.MediaStore
-import androidx.core.content.ContextCompat.startActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.example.madpractical4_20012011127.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
